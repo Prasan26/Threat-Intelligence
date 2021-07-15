@@ -1,12 +1,14 @@
 # Threat-Intelligence
 This repositories share resources related to Threat Intelligence
 
-Scans malicious files and URLs online -- https://www.virustotal.com/gui/home/upload 
+# Scanning Tools
 
-USM Anywhere -- Start detecting threats on day one and drive operational efficiency with one unified platform for threat detection, incident response, and compliance management.
+1.) Scans malicious files and URLs online -- https://www.virustotal.com/gui/home/upload 
+
+2.) USM Anywhere -- Start detecting threats on day one and drive operational efficiency with one unified platform for threat detection, incident response, and compliance management.
 -- https://cybersecurity.att.com/products/usm-anywhere
 
-Anomali intelligence-driven security products provide unmatched threat visibility and accelerated detection, allowing customers to reduce the risk of security breaches and improve security team productivity -- https://www.anomali.com/products
+3.) Anomali intelligence-driven security products provide unmatched threat visibility and accelerated detection, allowing customers to reduce the risk of security breaches and improve security team productivity -- https://www.anomali.com/products
 
 # Video Resources
 1.) Using Open Tools to Convert Threat Intelligence into Practical Defenses -- https://www.youtube.com/watch?v=_84eA4jQOec
